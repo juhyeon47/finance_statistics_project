@@ -357,13 +357,13 @@ for (i in 1:nrow(fifth_df_quater)) {
 ```
 <br/> 
 
-`-` 현대코퍼레이션
+`-` STX
 
 <img src="https://postfiles.pstatic.net/MjAyMzA2MTFfMjk1/MDAxNjg2NDE3MjIxMzIz.adqcpWVGD9Rcvm3_fl6DjhKbdi9ZMDbijdsN2ngslAAg.W7RvSV0Kn5DrMq4Vy92TW0JRsZv80rvPSI2izFJF1s4g.PNG.juhyunss_/%EB%B9%84%EA%B5%90.png?type=w773" data-lazy-src="" data-width="693" data-height="402" alt="" class="se-image-resource egjs-visible">
 
 <br/> 
 
-`-` STX
+`-` 현대코퍼레이션
 
 <img src="https://postfiles.pstatic.net/MjAyMzA2MTFfMTc2/MDAxNjg2NDE3NTYzNTgz.TBPSG1_Tm7l6oPxxZ82YOZiq2QQVFtIs8ZGzNfd2ph8g._9Karo0cunF6L-C1mR0oTfuoVufcky26Fr14XVvM5UQg.PNG.juhyunss_/%EC%B2%AB%EB%B2%88%EC%A7%B8.png?type=w773" data-lazy-src="" data-width="693" data-height="363" alt="" class="se-image-resource egjs-visible">
 
@@ -470,14 +470,48 @@ for (i in 1:nrow(fifth_df_quater)) {
  
 - 보통 **ROE, EPS 값이 높고** **PER와 PBR이 낮은** 종목을 투자하라고 한다. 왜냐하면 ***저평가*** 되어있다고 판단하기 때문이다.
 
-<br/>
- 
+ <br/>
+
 ***알아보고자하는 것***
+
+ <br/>
+
 **포스코인터내셔널과 LX인터내셔널의 비교를 통해 왜 LX인터내셔널의 외국인 비율이 높은지 알아볼 것이고, GS글로벌과 현대코퍼레이션의 비교를 통해 왜 현대코퍼레이션의 외국인 비율이 높은지 알아볼 것이다.**
+ 
+ <br/>
+ 
 *TX는 다른 종목들에 비해 성과가 좋지 않기 때문에 비교 항목에서 제외하였다.*
 
 <br/>
 
-### (4) 포스코인터내셔널 VS LX인터내셔널 
+### (4) 포스코인터내셔널 VS LX인터내셔널
+
+<br/>
+
+`-` 포스코인터내셔널
+
+<img src="https://postfiles.pstatic.net/MjAyMzA2MTFfMjEw/MDAxNjg2NDE3NTcwMzQy.tQZS0nVC1thTrTnT-kLti28WH5mPFr7e_6Akw0DRtpgg.R4XXAm0j5SLLDz7bloiXW7hevwyDwX4csykyB9p2jRwg.PNG.juhyunss_/%EB%8B%A4%EC%84%AF%EB%B2%88%EC%A7%B8.png?type=w773" data-lazy-src="" data-width="693" data-height="330" alt="" class="se-image-resource egjs-visible">
+
+<br/>
+
+`-` LX인터내셔널
+
+<img src="https://postfiles.pstatic.net/MjAyMzA2MTFfMTY3/MDAxNjg2NDE3NTY2NjE0.cgW9fgdHCGQzi2um3aHt_HKvOfwr0kSGwY9a46H14P0g.ToZT57zdmQO78VRzTpF5_NOXaaMNwmd2kPlmMYDw9o8g.PNG.juhyunss_/%EC%84%B8%EB%B2%88%EC%A7%B8.png?type=w773" data-lazy-src="" data-width="693" data-height="330" alt="" class="se-image-resource egjs-visible">
+
+<br/>
 
 ### (5) GS글로벌 VS 현대코퍼레이션 
+
+<br/>
+
+`-` GS글로벌
+
+<img src="https://postfiles.pstatic.net/MjAyMzA2MTFfMjMw/MDAxNjg2NDE3NTY3OTA3.Gwu5lzOmbT_UZp8N1GHeajyLrjRg-CpLvgvQTtRBpl8g.FQ87lC0Xd9HNk2q1RCMVGlQ8NrTL-mVodfjrSN859yAg.PNG.juhyunss_/%EB%84%A4%EB%B2%88%EC%A7%B8.png?type=w773" data-lazy-src="" data-width="693" data-height="330" alt="" class="se-image-resource egjs-visible">
+
+<br/>
+
+`-` 현대코퍼레이션
+
+<img src="https://postfiles.pstatic.net/MjAyMzA2MTFfMTc2/MDAxNjg2NDE3NTYzNTgz.TBPSG1_Tm7l6oPxxZ82YOZiq2QQVFtIs8ZGzNfd2ph8g._9Karo0cunF6L-C1mR0oTfuoVufcky26Fr14XVvM5UQg.PNG.juhyunss_/%EC%B2%AB%EB%B2%88%EC%A7%B8.png?type=w773" data-lazy-src="" data-width="693" data-height="363" alt="" class="se-image-resource egjs-visible">
+
+<br/>
