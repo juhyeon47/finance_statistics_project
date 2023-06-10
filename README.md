@@ -237,7 +237,7 @@ for (i in 1:nrow(trade_compare)) {
 
 <img src="https://postfiles.pstatic.net/MjAyMzA2MTFfMjk1/MDAxNjg2NDE3MjIxMzIz.adqcpWVGD9Rcvm3_fl6DjhKbdi9ZMDbijdsN2ngslAAg.W7RvSV0Kn5DrMq4Vy92TW0JRsZv80rvPSI2izFJF1s4g.PNG.juhyunss_/%EB%B9%84%EA%B5%90.png?type=w773" data-lazy-src="" data-width="693" data-height="402" alt="" class="se-image-resource egjs-visible">
 
-- 차례대로 포스코인터내셔널, lx인터내셔널, gs글로벌, 현대코퍼레이션, stx이다.
+- 차례대로 포스코인터내셔널, lx인터내셔널, 현대코퍼레이션, gs글로벌, stx이다.
 
 <br/> 
 
@@ -385,4 +385,34 @@ for (i in 1:nrow(fifth_df_quater)) {
 
 ## 8. 비교 및 해석
 <br/> 
+
+### (1) 영위하고 있는 사업과 사업보고서 분석
+
+5개 회사 공통적으로 **ESG경영**으로의 흐름 변화를 기반으로 ***'친환경 에너지'*** 에 주력을 두고 있다. 친환경 에너지로의 패러다임 전환을 통해 세계 각국의 **협업과 신사업**을 기대할 수 있다.
+<br/> 
+과거에는 주주중심의 이익극대화가 기업의 목적이었지만 현재는 ***이해관계자중심의 이익극대화***로 변화되면서 ESG경영이 더욱 주목 받는 이유 중 하나이다. 그래야 기업은 **지속가능한성장**을 할 수 있다.
+
+<br/> 
+
+### (2) 시가 변동 그래프 분석
+
+<img src="https://postfiles.pstatic.net/MjAyMzA2MTFfNjgg/MDAxNjg2NDE2NzUyNzUy.HgVURp78-9sR9yISSLMBwA8wknu1uzxMBdxxcFyVTgQg.m77itb196VRvCAGaN6vQFqDCCFLWYQF4py-X985Nl0cg.PNG.juhyunss_/%EC%8B%9C%EA%B0%80%EB%B3%80%EB%8F%99%EA%B7%B8%EB%9E%98%ED%94%84.png?type=w773" data-lazy-src="" data-width="693" data-height="363" alt="" class="se-image-resource egjs-visible">
+
+전체적으로 주가가 떨어진 것을 확인할 수 있다. 2021년에는 COVID-19으로 인한 유가 하락, 미국과 중국의 무역 갈등, 글로벌 경기 둔화 등 불확실성에 관한 위험이 있었다. 또한 2022년에는 미국의 기준금리인상에 따른 글로벌 경기둔화, 미국과 중국의 패권 경쟁지속으로 이한 자국 중심의 보호무역주의 강화, 코로나 재확산 등 불확실성의 위험이 존재하였다. **예측불가능한 위험*** 때문에 기업에서는 **친환경에너지사업**을 통해 더욱 **미래 지향적 성과 극대화**를 이루어내고자 한다.
+
+### (3) 동일업종비교(2023년 03월 분기 기준)
+
+- 현재가 : 포스코인터내셔널 > LX인터내셔널 > 현대코퍼레이션 > STX > GS글로벌
+- 시가총액(억) : 포스코인터내셔널 > LX인터내셔널 > 현대코퍼레이션 > GS글로벌 > STX
+- 외국인취득률(%) : LX인터내셔널 > 현대코퍼레이션 > STX > 포스코인터내셔널 > GS글로벌
+- 매출액 (억) : 포스코인터내셔널 > LX인터내셔널 > 현대코퍼레이션 > GS글로벌 > STX
+- 영업이익(억) : 포스코인터내셔널 > LX인터내셔널 > 현대코퍼레이션 > GS글로벌 > STX
+- 조정영업이익 : 포스코인터내셔널 > LX인터내셔널 > 현대코퍼레이션 > GS글로벌 > STX
+- 영업이익증가율(%) : 현대코퍼레이션 > 포스코인터내셔널 > GS글로벌 > LX인터내셔널 > STX
+- 당기순이익(억) : 포스코인터내셔널 > LX인터내셔널 > 현대코퍼레이션 > GS글로벌 > STX
+- 주당순이익(원) : LX인터내셔널 > 현대코퍼레이션 > 포스코인터내셔널 > GS글로벌 > STX
+- ROE(%) : LX인터내셔널 > 현대코퍼레이션 > GS글로벌 > 포스코인터내셔널 > STX
+- PER(배) : 포스코인터내셔널 > 현대코퍼레이션 > GS글로벌 > LX인터내셔널 > STX
+- PBR(배) : STX > 포스코인터내셔널 > GS글로벌 > LX인터내셔널 =  
+
 
