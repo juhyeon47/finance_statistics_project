@@ -393,6 +393,96 @@ for (i in 1:nrow(fifth_df_quater)) {
 
 <br/> 
 
+```r
+for (i in 1:nrow(first_df_quater)) {
+  values <- as.numeric(as.character(first_df_quater[i, ]))
+  rowname <- rownames(first_df_quater)[i]
+  title <- paste0(rowname, " Boxplot")
+  
+  # Create the boxplot using cozy colors
+  boxplot(values, names = rowname,
+          xlab = "Quarter", ylab = "Value", main = title,
+          col = cozy_colors)
+}
+
+for (i in 1:nrow(second_df_quater)) {
+  values <- as.numeric(as.character(second_df_quater[i, ]))
+  rowname <- rownames(second_df_quater)[i]
+  title <- paste0(rowname, " Boxplot")
+  
+  # Create the boxplot using cozy colors
+  boxplot(values, names = rowname,
+          xlab = "Quarter", ylab = "Value", main = title,
+          col = cozy_colors)
+}
+
+
+for (i in 1:nrow(third_df_quater)) {
+  values <- as.numeric(as.character(third_df_quater[i, ]))
+  rowname <- rownames(third_df_quater)[i]
+  title <- paste0(rowname, " Boxplot")
+  
+  # Create the boxplot using cozy colors
+  boxplot(values, names = rowname,
+          xlab = "Quarter", ylab = "Value", main = title,
+          col = cozy_colors)
+}
+
+for (i in 1:nrow(fourth_df_quater)) {
+  values <- as.numeric(as.character(fourth_df_quater[i, ]))
+  rowname <- rownames(fourth_df_quater)[i]
+  title <- paste0(rowname, " Boxplot")
+  
+  # Create the boxplot using cozy colors
+  boxplot(values, names = rowname,
+          xlab = "Quarter", ylab = "Value", main = title,
+          col = cozy_colors)
+}
+
+for (i in 1:nrow(fifth_df_quater)) {
+  values <- as.numeric(as.character(fifth_df_quater[i, ]))
+  rowname <- rownames(fifth_df_quater)[i]
+  title <- paste0(rowname, " Boxplot")
+  
+  # Create the boxplot using cozy colors
+  boxplot(values, names = rowname,
+          xlab = "Quarter", ylab = "Value", main = title,
+          col = cozy_colors)
+}
+```
+<br/> 
+`-` STX
+
+<img src="https://postfiles.pstatic.net/MjAyMzA2MTFfNzYg/MDAxNjg2NDkwNjcxMTE3._kWudFl_VV-u4jqRPS5rhTT5wI0M6wC1ZquWirTpPIgg.DEPU-wE5yz7psjkHcDPCWnb0rbjAW-myVMYC2KSAUIUg.PNG.juhyunss_/111.png?type=w773" data-lazy-src="" data-width="693" data-height="330" alt="" class="se-image-resource egjs-visible">
+
+<br/> 
+
+`-` 현대코퍼레이션
+
+<img src="https://postfiles.pstatic.net/MjAyMzA2MTFfMTIw/MDAxNjg2NDkwNjc2ODA2.dW3sd_Bhl8G26bhvCkYmdySrx09Qe364JgdM6laYlvgg.HaaysOZpE55OrORSwUwccuj9qHMVOJhp-7tHZ0fFXMwg.PNG.juhyunss_/222.png?type=w773" data-lazy-src="" data-width="693" data-height="330" alt="" class="se-image-resource egjs-visible">
+
+
+<br/> 
+
+`-` LX인터내셔널
+
+<img src="https://postfiles.pstatic.net/MjAyMzA2MTFfMjc0/MDAxNjg2NDkwNjc5MTE0.IcJ6b4hUfBnDRXAOvibg_CIspXgafQVR3jsFzO2DHm8g.smvziFOlhqZjO551Rmfgo8HT5ls9aURVxgGlWPUUxyUg.PNG.juhyunss_/333.png?type=w773" data-lazy-src="" data-width="693" data-height="330" alt="" class="se-image-resource egjs-visible">
+
+<br/> 
+
+`-` GS GLOBAL
+
+<img src="https://postfiles.pstatic.net/MjAyMzA2MTFfMjYw/MDAxNjg2NDkwNjgxMDU1.ScjdLfo_5tFMlEIddsuspMrczwu9lr-NNZGsxmxW3xYg.Y6QUmAYO-uGLVZluWN7zE_nA552UaNdZh3RKQYlL8KMg.PNG.juhyunss_/444.png?type=w773" data-lazy-src="" data-width="693" data-height="330" alt="" class="se-image-resource egjs-visible">
+
+
+<br/> 
+
+`-` 포스코인터내셔널
+
+<img src="https://postfiles.pstatic.net/MjAyMzA2MTFfNzIg/MDAxNjg2NDkwNjgzNTI5.Fap42Zxh-wD_fgelB9sGVNocZjTLtVS9ssr3dyApQmAg.f5zV0fV03TufQxj2kz-zO_OSl0eeNkmunLxSgJEO63sg.PNG.juhyunss_/555.png?type=w773" data-lazy-src="" data-width="693" data-height="330" alt="" class="se-image-resource egjs-visible">
+
+<br/> 
+
 
 ## 8. 비교 및 해석
 <br/> 
