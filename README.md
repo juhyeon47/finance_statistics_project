@@ -451,6 +451,7 @@ for (i in 1:nrow(fifth_df_quater)) {
 }
 ```
 <br/> 
+
 `-` STX
 
 <img src="https://postfiles.pstatic.net/MjAyMzA2MTFfNzYg/MDAxNjg2NDkwNjcxMTE3._kWudFl_VV-u4jqRPS5rhTT5wI0M6wC1ZquWirTpPIgg.DEPU-wE5yz7psjkHcDPCWnb0rbjAW-myVMYC2KSAUIUg.PNG.juhyunss_/111.png?type=w773" data-lazy-src="" data-width="693" data-height="330" alt="" class="se-image-resource egjs-visible">
