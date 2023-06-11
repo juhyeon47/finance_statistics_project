@@ -406,7 +406,7 @@ for (i in 1:nrow(fifth_df_quater)) {
 
 <br/>
 
-전체적으로 주가가 떨어진 것을 확인할 수 있다. 2021년에는 COVID-19으로 인한 유가 하락, 미국과 중국의 무역 갈등, 글로벌 경기 둔화 등 불확실성에 관한 위험이 있었다. 또한 2022년에는 미국의 기준금리인상에 따른 글로벌 경기둔화, 미국과 중국의 패권 경쟁지속으로 이한 자국 중심의 보호무역주의 강화, 코로나 재확산 등 불확실성의 위험이 존재하였다. **예측불가능한 위험*** 때문에 기업에서는 **친환경에너지사업**을 통해 더욱 **미래 지향적 성과 극대화**를 이루어내고자 한다.
+전체적으로 주가가 떨어진 것을 확인할 수 있다. 2021년에는 COVID-19으로 인한 유가 하락, 미국과 중국의 무역 갈등, 글로벌 경기 둔화 등 불확실성에 관한 위험이 있었다. 또한 2022년에는 미국의 기준금리인상에 따른 글로벌 경기둔화, 미국과 중국의 패권 경쟁지속으로 이한 자국 중심의 보호무역주의 강화, 코로나 재확산 등 불확실성의 위험이 존재하였다. **예측불가능한 위험** 때문에 기업에서는 **친환경에너지사업**을 통해 더욱 **미래 지향적 성과 극대화**를 이루어내고자 한다.
 
 <br/>
 
@@ -434,11 +434,16 @@ for (i in 1:nrow(fifth_df_quater)) {
 
 <br/>
 
+#### (3)-1. 변수의 의미
+
+<br/>
+
 - 시가총액 = 주가 * 발행주식수
   - 주가가 동일 할 때, 발행주식수가 많으면 시가총액이 커지고 발행주식수가 적으면 시가총액이 작아진다. **발행주식수가 많다는 의미는 주가 변동성이 낮다**는 의미이다. 반면, **발행주식수가 적다는 의미는 수요가 공급보다 많을 때 주가 상승폭이 높다**는 의미이다.
    <br/>
   
   - 현재가가 비슷한 포스코인터내셔널과 LX인터내셔널을 비교해보았을 때, LX인터내셔널의 발행주식수가 포스코인터내셔널보다 적은 것을 예측할 수 있다. 이는 ***LX인터내셔널의 주가상승폭이 크다.*** 즉, **주가하락폭도 크다는 의미이고 변동성과 리스크가 크다**는 것을 예측해 볼 수 있다.
+  - 
  <br/>
 
 - 영업이익, 조정영업이익률, 당기순이익은 매출액에 의해 영향을 받기 때문에 동일업종비교의 순서가 똑같은 것을 예측할 수 있다.
@@ -488,6 +493,25 @@ for (i in 1:nrow(fifth_df_quater)) {
 
 <br/>
 
+**2023년 3월**
+
+<br/>
+
+- 영업이익 : 포스코인터내셔널 > LX인터내셔널
+- 당기순이익 : 포스코인터내셔널 > LX인터내셔널
+- 영업이익률 : 포스코인터내셔널 < LX인터내셔널
+- 순이익률 : 포스코인터내셔널 < LX인터내셔널
+- ROE : 포스코인터내셔널 < LX인터내셔널
+- 부채비율 : 포스코인터내셔널 > LX인터내셔널
+- 당좌비율 : 포스코인터내셔널 < LX인터내셔널
+- 유보율 : 포스코인터내셔널 < LX인터내셔널
+- EPS : 포스코인터내셔널 < LX인터내셔널
+- PER : 포스코인터내셔널 > LX인터내셔널
+- BPS : 포스코인터내셔널 < LX인터내셔널
+- PBR : 포스코인터내셔널 > LX인터내셔널
+
+<br/>
+
 `-` 포스코인터내셔널
 
 <img src="https://postfiles.pstatic.net/MjAyMzA2MTFfMjEw/MDAxNjg2NDE3NTcwMzQy.tQZS0nVC1thTrTnT-kLti28WH5mPFr7e_6Akw0DRtpgg.R4XXAm0j5SLLDz7bloiXW7hevwyDwX4csykyB9p2jRwg.PNG.juhyunss_/%EB%8B%A4%EC%84%AF%EB%B2%88%EC%A7%B8.png?type=w773" data-lazy-src="" data-width="693" data-height="330" alt="" class="se-image-resource egjs-visible">
@@ -498,7 +522,11 @@ for (i in 1:nrow(fifth_df_quater)) {
 
 <img src="https://postfiles.pstatic.net/MjAyMzA2MTFfMTY3/MDAxNjg2NDE3NTY2NjE0.cgW9fgdHCGQzi2um3aHt_HKvOfwr0kSGwY9a46H14P0g.ToZT57zdmQO78VRzTpF5_NOXaaMNwmd2kPlmMYDw9o8g.PNG.juhyunss_/%EC%84%B8%EB%B2%88%EC%A7%B8.png?type=w773" data-lazy-src="" data-width="693" data-height="330" alt="" class="se-image-resource egjs-visible">
 
+
 <br/>
+
+#### (4)-1. 변수의 
+
 
 ### (5) GS글로벌 VS 현대코퍼레이션 
 
