@@ -530,8 +530,13 @@ for (i in 1:nrow(fifth_df_quater)) {
 - 차례대로 포스코인터내셔널, lx인터내셔널, 현대코퍼레이션, gs글로벌, stx이다.
 
 **알아보고자 하는 것**
-1. 현재가가 비슷한 포스코인터내셔널과 LX인터내셔널은 어떤 차이가 있길래 LX인터내셔널의 외국인 취득률이 더 높은가?
-2. ROE, PER, PBR 투자를 위한 지표가 비슷하게 나타나는 현대코퍼레이션과 GS글로벌은 어떤 차이가 있길래 현대코퍼레이션의 외국인 취득률이 더 높은가?
+
+<br/>
+
+**1. 현재가가 비슷한 포스코인터내셔널과 LX인터내셔널은 어떤 차이가 있길래 LX인터내셔널의 외국인 취득률이 더 높은가?**
+**2. ROE, PER, PBR 투자를 위한 지표가 비슷하게 나타나는 현대코퍼레이션과 GS글로벌은 어떤 차이가 있길래 현대코퍼레이션의 외국인 취득률이 더 높은가?**
+
+<br/>
 
 <img src="https://postfiles.pstatic.net/MjAyMzA2MTFfMjk1/MDAxNjg2NDE3MjIxMzIz.adqcpWVGD9Rcvm3_fl6DjhKbdi9ZMDbijdsN2ngslAAg.W7RvSV0Kn5DrMq4Vy92TW0JRsZv80rvPSI2izFJF1s4g.PNG.juhyunss_/%EB%B9%84%EA%B5%90.png?type=w773" data-lazy-src="" data-width="693" data-height="402" alt="" class="se-image-resource egjs-visible">
 
